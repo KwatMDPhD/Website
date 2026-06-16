@@ -4,15 +4,15 @@ KwatMDPhD.com
 
 ## Education
 
-**2011 09 - 2016 06** BS in Bioengineering & Bioinformatics at University of California San Diego (UCSD)
+**2011 09 - 2016 06** BS in Bioengineering and Bioinformatics at University of California San Diego (UCSD)
 
-**2019 08 -** MD at Stanford
+**2019 08 -** MD at Stanford University School of Medicine
 
-**2019 08 -** PhD in Biophysics at Stanford
+**2019 08 -** PhD in Biophysics at Stanford University School of Medicine
 
 ## Profession
 
-**2010 06 - 2011 09 & 2014 06 - 2014 09** Laboratory technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
+**2010 06 - 2011 09 and 2014 06 - 2014 09** Laboratory technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
 
 **2013 05 - 2013 09** Laboratory technician at Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
 
@@ -38,67 +38,65 @@ KwatMDPhD.com
 
 **2013**
 
-UCSD Summer Training Academy for Research Success Symposium (talk)
+UCSD Summer Training Academy for Research Success (STARS) Symposium (talk)
 
-Society for Advancement of Hispanics/Chicanos and Native Americans in Science Annual Meeting
+Society for Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS) Annual Meeting
 
 **2014**
 
-UC Leadership Excellence through Advanced Degrees Annual Symposium
+University of California Leadership Excellence through Advanced Degrees (UC LEADS) Annual Symposium
 
-American Association for Cancer Research Annual Meeting
+American Association for Cancer Research (AACR) Annual Meeting
 
-UCSD Bioengineering Day Symposium
+UCSD Bioengineering Day (BD) Symposium
 
-UCLA Summer Programs for Undergraduate Research Symposium (talk)
+UCLA Summer Programs for Undergraduate Research in Science (SPUR) Symposium (talk)
 
-Society for Advancement of Hispanics/Chicanos and Native Americans in Science Annual Meeting
+SACNAS Annual Meeting
 
-International Genetically Engineered Machine Giant Jamboree (talk)
+International Genetically Engineered Machine (iGEM) Giant Jamboree (talk)
 
 **2015**
 
-UC Leadership Excellence through Advanced Degrees Annual Symposium
+UC LEADS Annual Symposium
 
-American Association for Cancer Research Annual Meeting
+AACR Annual Meeting
 
-UCSD Bioengineering Day Symposium
+UCSD BD Symposium
 
 **2016**
 
-American Association for Cancer Research Annual Meeting
+AACR Annual Meeting
 
-UCSD Bioengineering Day Symposium (talk)
+UCSD BD Symposium (talk)
 
 UCSD Faculty Mentor Program Symposium
 
 San Diego Entrepreneur Night (talk)
 
-Y Combinator (talk)
+Y Combinator Interview (talk)
 
 **2017**
 
-American Association for Cancer Research Annual Meeting
+AACR Annual Meeting
 
-National Cancer Institute Cancer Target Discovery and Development Meeting (talk)
+National Cancer Institute Cancer Target Discovery and Development (NCI CTD2) Annual Meeting (talk)
 
 **2018**
 
-UCSD Campus-Wide Cancer Genomics Meeting 1 (talk)
+UCSD Campus-Wide Cancer Genomics (CWCG) Meeting (talk)
 
-American Association for Cancer Research Annual Meeting
+AACR Annual Meeting
 
-National Cancer Institute Cancer Target Discovery and Development Meeting (talk)
+NCI CTD2 Annual Meeting (talk)
 
-UCSD Campus-Wide Cancer Genomics Meeting 2 (talk)
-
-American Association for Cancer Research Artificial Intelligence, Big Data, and Prediction in Cancer
+AACR Artificial Intelligence, Big Data, and Prediction in Cancer Symposium
 
 **2019**
 
-American Association for Cancer Research Advances in Pediatric Cancer Research
+AACR Advances in Pediatric Cancer Research Symposium
 
-Y Combinator (talk)
+Y Combinator Interview (talk)
 
 **2022**
 
@@ -106,11 +104,11 @@ Stanford Medical Scientists Training Program Annual Retreat (talk)
 
 **2023**
 
-American Association of Immunologists Annual Meeting
+American Association of Immunologists (AAI) Annual Meeting
 
 **2025**
 
-American Association of Immunologists Annual Meeting (talk)
+AAI Annual Meeting (talk)
 
 Gates Foundation Tenth Annual Scientific Advisory Board Meeting (talk)
 
@@ -130,33 +128,33 @@ UCSD Revelle College Provost Award
 
 UCSD Revelle College Provost Award
 
-UC Leadership Excellence through Advanced Degrees Fellowship
+UC LEADS Fellowship
 
-UCSD Summer Training Academy for Research Success Fellowship
+UCSD STARS Fellowship
 
-Society for Advancement of Hispanics/Chicanos and Native Americans in Science Fellowship
+SACNAS Fellowship
 
 **2014**
 
-American Association for Cancer Research Thomas Bardos Science Education Award
+AACR Thomas Bardos Science Education Award
 
 UCSD Revelle College Provost Award
 
-UCLA Summer Programs for Undergraduate Research Fellowship
+UCLA SPUR Fellowship
 
-Society for Advancement of Hispanics/Chicanos and Native Americans in Science Fellowship
+SACNAS Fellowship
 
-International Genetically Engineered Machine Giant Jamboree Gold Medal
+iGEM Giant Jamboree Gold Medal
 
 **2015**
 
 UCSD Revelle College Provost Award
 
-Phi Beta Kappa
+Phi Beta Kappa Award
 
 Kathryn Lane Alumni Scholarship
 
-Frederick Bond UCSD Revelle College Scholarship
+UCSD Revelle College Frederick Bond Scholarship
 
 **2016**
 
@@ -168,7 +166,7 @@ UCSD Moores Cancer Center Staff Award
 
 **2023**
 
-American Association of Immunologists Fellowship
+AAI Fellowship
 
 **2024**
 
@@ -176,4 +174,4 @@ Fifty Years Deep Technology Entrepreneurship Fellowship
 
 **2025**
 
-American Association of Immunologists Fellowship
+AAI Fellowship
