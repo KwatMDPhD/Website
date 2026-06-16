@@ -1,6 +1,6 @@
 ## Summary
 
-I'm a bioinformatician and a seventh-year MD-PhD candidate in the Mark Davis Laboratory at Stanford School of Medicine
+I am a bioinformatician and a 7th-year MD-PhD candidate in the Mark Davis Laboratory at Stanford School of Medicine
 
 ## Education
 
@@ -14,7 +14,7 @@ MD, Medical Doctor @ Stanford University School of Medicine
 
 #### 2019/08 - Present
 
-PhD, Computational & Mathematical Engineering @ Stanford University
+PhD, Biophysics @ Stanford University
 
 #### 2024/09 - 2024/12
 
@@ -205,17 +205,3 @@ American Association of Immunologists Fellowship
 #### 2025
 
 American Association of Immunologists Fellowship
-
-## Belief
-
-Less is more.
-
-Trim continuously, when in doubt, delete.
-
-Every adversity carries the seed of equal or greater advantage.
-
-If this were easy, what would it look like?
-
-Whatever I do once, I am more likely to do again.
-
-The more I do something, the more likely I am to do it again.
