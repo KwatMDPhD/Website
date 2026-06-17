@@ -12,9 +12,9 @@ KwatMDPhD.com
 
 ## Profession
 
-**2010 06 - 2011 09 and 2014 06 - 2014 09** Laboratory technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
+**2010 06 - 2011 09 and 2014 06 - 2014 09** Technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
 
-**2013 05 - 2013 09** Laboratory technician at Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
+**2013 05 - 2013 09** Technician at Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
 
 **2013 06 - 2013 10** Bioinformatician at Subramaniam Shankar Laboratory, UCSD Bioengineering
 
@@ -28,7 +28,7 @@ KwatMDPhD.com
 
 **2019 09 - 2020 09** Bioinformatician at Ronald Davis Laboratory, Stanford Genome Technology Center
 
-**2020 09 -** Graduate student at Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
+**2020 09 -** Bioinformatician at Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
 
 **2023 12 - 2024 04** Founder at Immunogram Co
 
@@ -50,7 +50,7 @@ American Association for Cancer Research (AACR) Annual Meeting
 
 UCSD Bioengineering Day (BD) Symposium
 
-UCLA Summer Programs for Undergraduate Research in Science (SPUR) Symposium (talk)
+UCLA Summer Programs for Undergraduate Research (SPUR) Symposium (talk)
 
 SACNAS Annual Meeting
 
@@ -84,23 +84,23 @@ National Cancer Institute Cancer Target Discovery and Development (NCI CTD2) Ann
 
 **2018**
 
-UCSD Campus-Wide Cancer Genomics (CWCG) Meeting (talk)
+UCSD Campus-Wide Cancer Genomics Meeting (talk)
 
 AACR Annual Meeting
 
 NCI CTD2 Annual Meeting (talk)
 
-AACR Artificial Intelligence, Big Data, and Prediction in Cancer Symposium
+AACR Artificial Intelligence, Big Data, and Prediction in Cancer Meeting
 
 **2019**
 
-AACR Advances in Pediatric Cancer Research Symposium
+AACR Advances in Pediatric Cancer Research Meeting
 
 Y Combinator Interview (talk)
 
 **2022**
 
-Stanford Medical Scientists Training Program Annual Retreat (talk)
+Stanford Medical Scientists Training Program Annual Meeting (talk)
 
 **2023**
 
@@ -118,15 +118,15 @@ Gates Foundation Tenth Annual Scientific Advisory Board Meeting (talk)
 
 Beverly Hills High School Most Improved Student Award
 
-UCSD Revelle College Provost Award
+UCSD Revelle College Provost (RCP) Award
 
 **2012**
 
-UCSD Revelle College Provost Award
+UCSD RCP Award
 
 **2013**
 
-UCSD Revelle College Provost Award
+UCSD RCP Award
 
 UC LEADS Fellowship
 
@@ -138,7 +138,7 @@ SACNAS Fellowship
 
 AACR Thomas Bardos Science Education Award
 
-UCSD Revelle College Provost Award
+UCSD RCP Award
 
 UCLA SPUR Fellowship
 
@@ -148,7 +148,7 @@ iGEM Giant Jamboree Gold Medal
 
 **2015**
 
-UCSD Revelle College Provost Award
+UCSD RCP Award
 
 Phi Beta Kappa Award
 
@@ -158,11 +158,11 @@ UCSD Revelle College Frederick Bond Scholarship
 
 **2016**
 
-UCSD Moores Cancer Center Staff Award
+UCSD Moores Cancer Center Staff (MCCS) Award
 
 **2017**
 
-UCSD Moores Cancer Center Staff Award
+UCSD MCCS Award
 
 **2023**
 
